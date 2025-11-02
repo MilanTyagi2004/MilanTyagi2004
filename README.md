@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Milan Tyagi
-**A passionate Software Developer**
+Full-Stack Developer | Open Source Contributor | Java • Spring Boot • React
 
 Email Me 👉 ✉️ <--milantyagi2004@gmail.com--> For Collaboration/Project or Anything Else. 😊😊
 
