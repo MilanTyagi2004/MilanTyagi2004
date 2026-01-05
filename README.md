@@ -13,7 +13,6 @@ Email Me 👉 ✉️ <--milantyagi2004@gmail.com--> For Collaboration/Project or
   - Checked connection-oriented, alarmingTransaction, healthyTransaction
   - Recursive children transactions
   - Executed queries and events
-  - Jackson serialization (non-null fields)
 - [Pull Request #109](https://github.com/Mamun-Al-Babu-Shikder/spring-tx-board/pull/109) merged ✅
 
 # 📊 GitHub Stats:
