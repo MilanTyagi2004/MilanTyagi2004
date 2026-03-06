@@ -24,15 +24,3 @@ Key Contributions:
 
 Merged Pull Request  
 🔗 https://github.com/Mamun-Al-Babu-Shikder/spring-tx-board/pull/109
-
----
-
-# 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=MilanTyagi2004&theme=dark&show_icons=true)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilanTyagi2004&layout=compact&theme=dark)
-
----
-
-![visitors](https://visitcount.itsvg.in/api?id=MilanTyagi2004&icon=0&color=0)
