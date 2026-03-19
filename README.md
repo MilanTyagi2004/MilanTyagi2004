@@ -8,9 +8,6 @@ Email Me 👉 ✉️ milantyagi2004@gmail.com For Collaboration / Projects.
 
 ---
 
-## 🏆 GitHub Achievements
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80">
-
 ## 🚀 Open Source Contribution
 Contributed to **spring-tx-board** – a developer tool for monitoring and debugging transactional behavior in Spring applications.
 
